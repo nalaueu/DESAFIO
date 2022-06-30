@@ -1,0 +1,11 @@
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\bin\Debug\DESAFIO.exe.config
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\bin\Debug\DESAFIO.exe
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\bin\Debug\DESAFIO.pdb
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.csproj.AssemblyReference.cache
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.Form1.resources
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.Properties.Resources.resources
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.csproj.GenerateResource.cache
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.exe
+C:\Users\anna.laralves\Documents\UC12\DESAFIO\DESAFIO\obj\Debug\DESAFIO.pdb
